@@ -23,6 +23,7 @@ body {
   justify-content: space-between;
   padding: 0.8rem 2.5rem;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05); /* Subtle shadow polish */
+    **min-height: 100px;** /* <--- TEMPORARY FIX TO FORCE LAYOUT */
 }
 
 /* LOGO STYLING */
