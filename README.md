@@ -1,6 +1,6 @@
 # 🚀 RoYo Logistics: Investor & Grant Application Landing Page
 
-This repository contains the source code for the public-facing, multilingual investor landing page for RoYo Logistics, the smart trucking platform for Central Asia and Russia.
+This repository contains the source code for the public-facing, multilingual investor landing page for RoYo Logistics, the smart trucking platform for Central Asia and Emerging Europe.
 
 **Domain:** `https://www.royo.uz/`
 
